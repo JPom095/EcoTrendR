@@ -1,0 +1,15 @@
+Package: EcoTrendR
+Title: climate data analysis with visualizations
+Version: 0.0.0.9000
+Authors@R: 
+    person("Josiah", "Pomeroy", email = "josiahpomeroy@usf.edu", role = c("aut", "cre"))
+Description: This package is designed to be used with standardized data to provide tools for climate analysis. Includes functions for analyzing temperature trends and seasonal variation.
+Imports: ggplot2, dplyr, tidyr
+Depends:
+    R (>= 3.1.2)
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+URL: https://github.com/JPom095/EcoTrendR
+LazyData: TRUE
+Config/roxygen2/version: 8.1.1
